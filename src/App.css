@@ -74,3 +74,19 @@
   font-size: 5em;
   padding: 8;
 }
+
+/******************************************************************/
+/* works page*/
+.works-grid {
+  display: flex;
+}
+
+/******************************************************************/
+/* contact page*/
+.contact-body {
+  margin: auto;
+  background: grey;
+  position: fixed;
+  width: 100%;
+  width: 100%;
+}
