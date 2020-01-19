@@ -1,8 +1,8 @@
 "use strict";
 
 module.exports = {
-  url: "https://lumen.netlify.com",
-  pathPrefix: "/",
+  url: "https://github.com/riy0/riy0.github.io/portfolio",
+  pathPrefix: "/portfolio",
   title: "Portfolio by Ryosuke",
   subtitle: "I am Ryosuke. Web developer and TED Translator",
   copyright: "© All rights reserved.",

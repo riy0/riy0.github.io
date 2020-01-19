@@ -1,6 +1,6 @@
 {
   "version": "3.0.3",
-  "name": "gatsby-starter-lumen",
+  "name": "portfolio",
   "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
   "main": "n/a",
   "scripts": {
@@ -16,8 +16,8 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
-  "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",
+  "repository": "https://github.com/riy0/riy0.github.io",
+  "author": "",
   "license": "MIT",
   "keywords": [
     "gatsby",
@@ -104,7 +104,7 @@
     "eslint-watch": "6.0.1",
     "flow-bin": "^0.116.1",
     "flow-typed": "^2.6.2",
-    "gh-pages": "2.2.0",
+    "gh-pages": "^2.2.0",
     "identity-obj-proxy": "3.0.0",
     "jest": "24.9.0",
     "jest-cli": "24.9.0",
