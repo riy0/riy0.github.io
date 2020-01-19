@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-a21cdbca6a3e3d0d03b9.js"
+    "url": "webpack-runtime-e4baa8c6d0855d434d59.js"
   },
   {
     "url": "styles.08a65b48b84d06820528.css"
@@ -42,14 +42,14 @@ self.__precacheManifest = [
     "url": "netlify-identity-widget-171ffe191486f421f700.js"
   },
   {
-    "url": "app-50a233f14f41f1db6a45.js"
+    "url": "app-ff1cfae7960789bb585d.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-1d9b46fa5d1abe87c6c2.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "5743bb5f8bf65bf29c4aa5d1b3640868"
+    "revision": "ddc9c299a906eaea550ad621e30570fb"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -149,12 +149,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/portfolio`), ``)
+  pathname = pathname.replace(new RegExp(`^/riy0.github.io`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/portfolio/app-50a233f14f41f1db6a45.js`))) {
+  if (!resources || !(await caches.match(`/riy0.github.io/app-ff1cfae7960789bb585d.js`))) {
     return await fetch(event.request)
   }
 
@@ -167,7 +167,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/portfolio/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/riy0.github.io/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
