@@ -36,20 +36,20 @@ self.__precacheManifest = [
     "url": "styles-202e1dd43dc66df3b3e9.js"
   },
   {
-    "url": "commons-01fec8e51b85026f4951.js"
+    "url": "commons-6d85a6cb713e9075a708.js"
   },
   {
     "url": "netlify-identity-widget-171ffe191486f421f700.js"
   },
   {
-    "url": "app-e79a8033cbbd02ce757a.js"
+    "url": "app-ab0a154a5e8addf9e88a.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-1d9b46fa5d1abe87c6c2.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "0b31c07bfb6afdcffc1acf2305ff8908"
+    "revision": "c859dc377fe395aa4330a5daa29e4f43"
   },
   {
     "url": "manifest.json",
@@ -57,7 +57,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "9b2ea27d3693af7eced1a98b606b7c7e"
+    "revision": "78f784f080a05bcba3cdeda1fc93f805"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -150,7 +150,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-e79a8033cbbd02ce757a.js`))) {
+  if (!resources || !(await caches.match(`/app-ab0a154a5e8addf9e88a.js`))) {
     return await fetch(event.request)
   }
 
