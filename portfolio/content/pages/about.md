@@ -4,10 +4,30 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+### PROFILE
+I am Ryosuke Mishimam student at JAIST.
+Web developer & TED Translator.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+### Educational Background
+- 2017年 松江工業高等専門学校 情報工学科 卒業
+- 2017年 松江工業高等専門学校 電子情報システム工学専攻 入学
+- 2019年 松江工業高等専門学校 電子情報システム工学専攻 卒業
+- 2019年 北陸先端科学技術大学院大学 入学
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+### Internship
+* 2015 株式会社 E-wel
+* 2017 株式会社 Voyage Group Treasure
+* 2019 株式会社 Ateam 4 days internship
+* 2019 DMM.com 
+* 2019 株式会社 Ateam 1 month internship
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+### Competition / Event
+-  2014 Ruby合宿
+-  2017 Git Challenge 
+-  2019 ICPC Yokohama Region, placed 18th.
+
+### Hobby 
+- Soccer
+- Camp
+- Cooking
+

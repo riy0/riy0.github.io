@@ -3,14 +3,13 @@
 module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
-  title: "Portfolio of riy0",
-  subtitle:
-    "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  title: "Portfolio",
+  subtitle: "I am Ryosuke. Web developer and TED Translator",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
   googleAnalyticsId: "UA-73379983-2",
-  useKate: false,
+  useKatex: false,
   menu: [
     {
       label: "Works & Talks",
@@ -26,20 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: "John Doe",
+    name: "Ryosuke Mishima",
     photo: "/photo.jpg",
-    bio:
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    bio: "I am Ryosuke. Web developer and TED Translator",
     contacts: {
-      email: "",
-      facebook: "#",
+      email: "chac0ptx@gmail.com",
+      facebook: "ryosuke.mishima.75",
       telegram: "#",
       twitter: "#",
-      github: "#",
+      github: "riy0",
       rss: "",
       vkontakte: "",
       linkedin: "#",
-      instagram: "#",
+      instagram: "honoporo",
       line: "",
       gitlab: "",
       weibo: "",
