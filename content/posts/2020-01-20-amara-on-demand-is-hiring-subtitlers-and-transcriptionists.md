@@ -10,7 +10,9 @@ tags:
   - Translator
   - Amara
 ---
+
 ## What is Amara?
+
 Caption, Subtitile and Translate Video
 Amara's award-winning technology enables you to caption and subtitle any video for free. For larger subtitling projects the platform makes it easy to manage teams of translators. And you can always purchase high-quality captions or translations from our passionate team of professional linguists.
 
@@ -20,7 +22,7 @@ Amara's award-winning technology enables you to caption and subtitle any video f
 
 とメッセージ.
 
-ContributionからでPaid Positionのオファーきたようなので頑張ります.
+Contribution からで Paid Position のオファーきたようなので頑張ります.
 
 resume を作るのに使ったこのサービスおすすめです.
 
@@ -28,6 +30,6 @@ resume を作るのに使ったこのサービスおすすめです.
 
 ひとまず Apply したので連絡待ちです.
 
-英語好きな人は応募しましょう. 
+英語好きな人は応募しましょう.
 
 #### [Amara](https://amara.org/ja/)
