@@ -7,7 +7,7 @@ module.exports = {
   subtitle: "I am Ryosuke. Web developer and TED Translator",
   copyright: "© All rights reserved.",
   disqusShortname: "",
-  postsPerPage: 4,
+  postsPerPage: 3,
   googleAnalyticsId: "UA-73379983-2",
   useKatex: false,
   menu: [
@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       label: "Contact me",
-      path: "/pages/contacts"
+      path: "/pages/contact"
     }
   ],
   author: {
@@ -31,12 +31,12 @@ module.exports = {
     contacts: {
       email: "chac0ptx@gmail.com",
       facebook: "ryosuke.mishima.75",
-      telegram: "#",
+      telegram: "",
       twitter: "#",
       github: "riy0",
       rss: "",
       vkontakte: "",
-      linkedin: "#",
+      linkedin: "",
       instagram: "honoporo",
       line: "",
       gitlab: "",

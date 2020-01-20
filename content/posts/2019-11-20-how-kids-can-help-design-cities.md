@@ -29,3 +29,5 @@ Approve 待ちなので日本語で見たい方は Amara で見てください.
 ### [TED Talks](https://www.ted.com/talks/mara_mintzer_how_kids_can_help_design_cities/up-next)
 
 ### [Amara](https://amara.org/en/videos/KOUnHn4kYamL/ja/2310410/)
+
+#### [Speaker](https://www.ted.com/speakers/mara_mintzers)
