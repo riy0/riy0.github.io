@@ -1,11 +1,9 @@
 ---
 template: page
-title: Contact
+title: Link 
 slug: contact
 draft: false
 ---
-
-## Link
 
 #### [Github](https://github.com/riy0)
 #### [resume.io](https://resume.io/r/S5t6IVnHj)
