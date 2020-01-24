@@ -16,7 +16,11 @@ tags:
 #### [TED Talks](https://www.ted.com/talks/erin_sullivan_does_photographing_a_moment_steal_the_experience_from_you)  [Speaker](https://www.ted.com/speakers/erin_sullivan)
 
 取ったタスクの２つ目です.
-2019年にウルルに行ったときに感じたこととすごく近かったので取りました。
-なるべくこれも早く終わらせたい。
+
+2019年にウルルに行ったときに自分が感じたこととすごく近かったので思わず取りました.
+
+旅行先でインスタ用の写真だけ撮ってすぐ移動したりする人をよく見かけるので見て欲しい. 
+
+ので, なるべくこれも早く終わらせます.
 
 When we witness something amazing, many of us instinctively pull out our phones and snap pictures. Is this obsession with photographing everything impacting our experiences? In a meditative talk, Erin Sullivan reflects on how being more intentional with her lens enhanced her ability to enjoy the moment -- and could help you do the same, too.
