@@ -18,7 +18,7 @@ tags:
 
 ### どのように子供たちが都市設計を手伝ってくれるか | Mara Mintzer
 
-[<img src="http://img.youtube.com/vi/360bU-vBJOI/0.jpg" width="80%">](https://www.ted.com/talks/mara_mintzer_how_kids_can_help_design_cities/up-next)
+[<img src="https://img.youtube.com/vi/360bU-vBJOI/0.jpg" width="80%">](https://www.ted.com/talks/mara_mintzer_how_kids_can_help_design_cities/up-next)
 
 #### [TED Talks](https://www.ted.com/talks/mara_mintzer_how_kids_can_help_design_cities/up-next) [Amara](https://amara.org/en/videos/KOUnHn4kYamL/ja/2310410/) [Speaker](https://www.ted.com/speakers/mara_mintzers)
 
@@ -29,4 +29,3 @@ Adults tend to think of kids as "future citizens" -- their ideas and opinions wi
 子供たちのアイデアを公園の設計に取り入れたトークです. 日本ではしないであろう取り組みで面白いと思います.
 
 Approve 待ちなので日本語で見たい方は Amara で見てください.
-

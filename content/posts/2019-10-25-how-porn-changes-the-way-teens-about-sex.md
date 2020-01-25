@@ -21,7 +21,7 @@ tags:
 
 ポルノが 10 代の子たちのセックスへの考えをどう変えるか |Emily F. Rothman
 
-[<img src="http://img.youtube.com/vi/FhP0AfZdRZ4/0.jpg" width="80%">](https://www.ted.com/talks/emily_f_rothman_how_porn_changes_the_way_teens_think_about_sex)
+[<img src="https://img.youtube.com/vi/FhP0AfZdRZ4/0.jpg" width="80%">](https://www.ted.com/talks/emily_f_rothman_how_porn_changes_the_way_teens_think_about_sex)
 
 #### [TED](https://www.ted.com/talks/emily_f_rothman_how_porn_changes_the_way_teens_think_about_sex) [翻訳つき](https://amara.org/en/videos/rH9SvJJmfKs2/ja/2539080/) [Speaker](https://www.ted.com/speakers/emily_rothman)
 

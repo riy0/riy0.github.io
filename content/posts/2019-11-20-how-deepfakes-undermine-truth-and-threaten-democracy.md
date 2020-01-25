@@ -24,7 +24,7 @@ tags:
 
 ### どのようにディープフェイクは真実を隠し、民主主義を脅かすのか | Danielle Citron
 
-[<img src="http://img.youtube.com/vi/pg5WtBjox-Y/0.jpg" width="80%">](https://www.ted.com/talks/danielle_citron_how_deepfakes_undermine_truth_and_threaten_democracy/up-next)
+[<img src="https://img.youtube.com/vi/pg5WtBjox-Y/0.jpg" width="80%">](https://www.ted.com/talks/danielle_citron_how_deepfakes_undermine_truth_and_threaten_democracy/up-next)
 
 #### [TED Talks](https://www.ted.com/talks/danielle_citron_how_deepfakes_undermine_truth_and_threaten_democracy/up-next) [Speaker](https://www.ted.com/speakers/danielle_citron)
 
