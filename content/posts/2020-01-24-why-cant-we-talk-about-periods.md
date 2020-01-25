@@ -2,23 +2,23 @@
 template: post
 title: Why can't we talk about periods?
 slug: why-cannot-we-talk-about-periods
-draft: true
+draft: false
 date: 2020-01-24T11:50:53.719Z
 description: 生理について話せないのはなぜか？ | Jen Gunter
 category: TED Talks
 tags:
-  - Society,
-  - Women,
-  - Biology,
-  - Health,
-  - Care,
-  - Health,
-  - Medicine,
-  - Feminism,
-  - Science,
-  - Human Body,
-  - Social Change,
-  - Public Health,
+  - 'Society,'
+  - 'Women,'
+  - 'Biology,'
+  - 'Health,'
+  - 'Care,'
+  - 'Health,'
+  - 'Medicine,'
+  - 'Feminism,'
+  - 'Science,'
+  - 'Human Body,'
+  - 'Social Change,'
+  - 'Public Health,'
   - Sex
 ---
 
