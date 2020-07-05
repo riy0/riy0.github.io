@@ -4,7 +4,7 @@ title: How porn changes the way teens about sex
 slug: how-porn-changes-the-way-teens-about-sex
 draft: false
 date: 2020-06-06T00:51:00.000Z
-description: ポルノが 10 代の子たちのセックスへの考えをどう変えるか |Emily F. Rothman
+description: ポルノが 10 代の子たちのセックスへの考えをどう変えるか Emily F. Rothman
 category: TED Talks
 tags:
   - Education
@@ -18,9 +18,7 @@ tags:
   - Communication
   - Teaching
 ---
-ポルノが 10 代の子たちのセックスへの考えをどう変えるか |
-
-#### Emily F. Rothman
+ポルノが 10 代の子たちのセックスへの考えをどう変えるか | Emily F. Rothman
 
 [<img src="https://img.youtube.com/vi/FhP0AfZdRZ4/0.jpg" width="80%">](https://www.ted.com/talks/emily_f_rothman_how_porn_changes_the_way_teens_think_about_sex)
 
