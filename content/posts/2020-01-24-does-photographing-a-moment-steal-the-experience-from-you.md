@@ -7,13 +7,7 @@ date: 2020-06-03T12:01:52.055Z
 description: 写真撮影の瞬間はあなたの体験を奪っている？ | Eric Sallivan
 category: TED Talks
 tags:
-  - 'Humanity,'
-  - 'Adventure,'
-  - 'Exploration,'
-  - 'Photography,'
-  - 'Entertainment,'
-  - 'Life,'
-  - Storytelling
+  - Humanity Adventure Exploration Photography Entertainment Life Storytelling
 ---
 
 ### 写真撮影の瞬間はあなたの体験を奪っている？ | Eric Sallivan
