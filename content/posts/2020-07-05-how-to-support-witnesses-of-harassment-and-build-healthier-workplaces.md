@@ -4,9 +4,7 @@ title: How to support witnesses of harassment and build healthier workplaces
 slug: how-to-support-witnesses-of-harassment-and-build-healthier-workplaces
 draft: false
 date: 2020-07-05T15:43:23.012Z
-description: >-
-  How to support witnesses of harassment and build healthier workplaces | Julia
-  Shaw
+description: ハラスメントの目撃者をサポートする方法とより健全な職場の作り方 | Julia Shaw
 category: TEDx
 tags:
   - Work
