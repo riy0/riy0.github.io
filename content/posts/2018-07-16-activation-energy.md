@@ -5,7 +5,7 @@ slug: activation-energy
 draft: false
 date: 2018-07-16T00:54:00.000Z
 description: |
-  活性化エネルギー 
+  活性化エネルギー
   化学反応のキックスタート |  Vance Kite,
 category: TED Ed
 tags:

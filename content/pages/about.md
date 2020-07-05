@@ -18,15 +18,15 @@ Web developer & TED Translator.
 * 2015 株式会社 E-wel
 * 2017 株式会社 Voyage Group Treasure
 * 2019 株式会社 Ateam 4 days internship
-* 2019 DMM.com 
+* 2019 DMM.com
 * 2019 株式会社 Ateam 1 month internship
 
 ### Competition / Event
 -  2014 Ruby合宿
--  2017 Git Challenge 
+-  2017 Git Challenge
 -  2019 ICPC Yokohama Region, placed 18th.
 
-### Hobby 
+### Hobby
 - Soccer
 - Camp
 - Cooking
